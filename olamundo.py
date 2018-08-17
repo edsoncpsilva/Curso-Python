@@ -1,0 +1,5 @@
+print('olá mundo')
+print(1+1)
+print(7*6)
+exit()
+print('nao passou')
